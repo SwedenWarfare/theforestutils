@@ -1,15 +1,15 @@
-Crossbow: 1
-Keycard: 1
-Chainsaw: 1
-Climbing Axe: 1
-Tenis Racket: 1
-Camcorder: 1
-Katana: 1
-Modern Bow: 1
-Flashlight: 1
-Rebreather: 1
-Map: 1
-Pedometer: 1
-Compass: 1
-Modern Axe: 1
-Rusty Axe: 1
+Crossbow: 0
+Keycard: 0
+Chainsaw: 0
+Climbing Axe: 0
+Tenis Racket: 0
+Camcorder: 0
+Katana: 0
+Modern Bow: 0
+Flashlight: 0
+Rebreather: 0
+Map: 0
+Pedometer: 0
+Compass: 0
+Modern Axe: 0
+Rusty Axe: 0
