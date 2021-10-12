@@ -1,0 +1,15 @@
+Crossbow: 1
+Keycard: 1
+Chainsaw: 1
+Climbing Axe: 1
+Tenis Racket: 1
+Camcorder: 1
+Katana: 1
+Modern Bow: 1
+Flashlight: 1
+Rebreather: 1
+Map: 1
+Pedometer: 1
+Compass: 1
+Modern Axe: 1
+Rusty Axe: 1
